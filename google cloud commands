@@ -50,7 +50,18 @@ gcloud container images list-tags: List tag and digest metadata for a container 
 
 
 
+--------------------------------------------------------------------------------------------------
 
+
+
+gcloud compute zones list: List Compute Engine zones.
+gcloud compute instances create: Create a VM instance.
+gcloud compute instances describe: Display a VM instance's details.
+gcloud compute instances list: List all VM instances in a project.
+gcloud compute disks snapshot: Create snapshot of persistent disks.
+gcloud compute snapshots describe: Display a snapshot's details.
+gcloud compute snapshots delete: Delete a snapshot.
+gcloud compute ssh: Connect to a VM instance by using SSH.
 
 
 
