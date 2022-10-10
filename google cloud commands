@@ -1,0 +1,6 @@
+gcloud config set: Define a property (like compute/zone) for the current configuration.
+gcloud config get-value: Fetch the value of a gcloud CLI property.
+gcloud config list: Display all the properties for the current configuration.
+gcloud config configurations create: Create a new named configuration.
+gcloud config configurations list: Display a list of all available configurations.
+gcloud config configurations activate: Switch to an existing named configuration.
