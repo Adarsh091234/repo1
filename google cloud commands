@@ -4,3 +4,15 @@ gcloud config list: Display all the properties for the current configuration.
 gcloud config configurations create: Create a new named configuration.
 gcloud config configurations list: Display a list of all available configurations.
 gcloud config configurations activate: Switch to an existing named configuration.
+
+
+
+---------------------------------------------------------------------------------------
+
+
+gcloud auth login: Authorize Google Cloud access for the gcloud CLI with Google Cloud user credentials and set the current account as active.
+gcloud auth activate-service-account: Authorize Google Cloud access similar to gcloud auth login but with service account credentials.
+gcloud auth application-default: Manage your Application Default Credentials (ADC) for Cloud Client Libraries.
+gcloud auth list: List all credentialed accounts.
+gcloud auth print-access-token: Display the current account's access token.
+gcloud auth revoke: Remove access credentials for an account.
