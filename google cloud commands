@@ -73,3 +73,12 @@ gcloud app browse: Open the current app in a web browser.
 gcloud app create: Create an App Engine app within your current project.
 gcloud app logs read: Display the latest App Engine app logs.
 
+
+------------------------------------------------------------------------------------------------------
+
+
+gcloud kms decrypt: Decrypt ciphertext (to a plaintext file) using a Cloud Key Management Service key.
+gcloud logging logs list: List your project's logs.
+gcloud sql backups describe: Display info about a Cloud SQL instance backup.
+gcloud sql export sql: Export data from a Cloud SQL instance to a SQL file.
+
