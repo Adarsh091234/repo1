@@ -64,5 +64,12 @@ gcloud compute snapshots delete: Delete a snapshot.
 gcloud compute ssh: Connect to a VM instance by using SSH.
 
 
+---------------------------------------------------------------------------------------------
 
+
+gcloud app deploy: Deploy your app's code and configuration to the App Engine server.
+gcloud app versions list: List all versions of all services deployed to the App Engine server.
+gcloud app browse: Open the current app in a web browser.
+gcloud app create: Create an App Engine app within your current project.
+gcloud app logs read: Display the latest App Engine app logs.
 
